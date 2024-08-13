@@ -2,7 +2,7 @@
 
 # Salaa POS System (Flutter Desktop App)
 
-Salaa is a powerful and intuitive Point of Sale (POS) system developed using Flutter for desktop. Designed to streamline business operations, Salaa offers comprehensive features for managing inventory, processing orders, tracking employees, and more. 
+Salaa is a powerful and intuitive Point of Sale (POS) system developed using Flutter for desktop available in Arabic and English. Designed to streamline business operations, Salaa offers comprehensive features for managing inventory, processing orders, tracking employees, and more. 
 
 ## Features
 
@@ -64,39 +64,22 @@ Salaa is a powerful and intuitive Point of Sale (POS) system developed using Flu
 
 ![Screenshot 2024-08-13 150134](https://github.com/user-attachments/assets/a38013f7-f09a-41a8-8d97-b47d0396316c)
 
+## Admin App Screenshots
 
-## Getting Started
+![1](https://github.com/user-attachments/assets/5986d11c-5b54-49cb-a69b-5784265d6fde)
 
-To get started with Salaa, clone the repository and follow the installation instructions below.
+![2](https://github.com/user-attachments/assets/b1beeaf8-8bdc-484f-8424-a024b62ac6c7)
 
-### Prerequisites
+![3](https://github.com/user-attachments/assets/ef90816b-5e89-4375-bd49-2a8b3343489a)
 
-- Flutter SDK
-- Dart SDK
-- A compatible IDE (e.g., Visual Studio Code, Android Studio)
+![4](https://github.com/user-attachments/assets/4b92d500-c3e7-41cc-8dae-182755bf2acd)
 
-### Installation
+![5](https://github.com/user-attachments/assets/fa644398-147f-45c3-bdc5-2639205395af)
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/salaa-pos-system.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd salaa-pos-system
-   ```
-3. Install the dependencies:
-   ```bash
-   flutter pub get
-   ```
-4. Run the application:
-   ```bash
-   flutter run -d windows
-   ```
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request to contribute to the project.
+Contributions are welcome! Please open an issue or submit a pull request to contribute to the project.❤️
 
 ## License
 
@@ -106,6 +89,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any inquiries or support, please contact Me at Amr90.vip@gmail.com.
 
----
-
-This README file is structured to provide a clear overview of the Salaa POS system, its features, and instructions for getting started, contributing, and licensing. You can add screenshots to the designated section to visually showcase your application.
+Thanks 🫶
