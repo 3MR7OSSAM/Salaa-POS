@@ -1,3 +1,4 @@
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 # Salaa POS System (Flutter Desktop App)
 
@@ -31,9 +32,38 @@ Salaa is a powerful and intuitive Point of Sale (POS) system developed using Flu
 - **Manage Subscriptions**: As an admin, manage user subscriptions efficiently through the mobile app.
 - **User Management**: Add, remove, or search for users within the system with ease.
 
-## Screenshots
+## Salaa Screenshots
 
-*(Screenshots of the application will be added here)*
+![Screenshot 2024-08-13 145829](https://github.com/user-attachments/assets/550be555-9d8e-4e15-82fa-ac0a3ece8cfe)
+
+![Screenshot 2024-08-13 145851](https://github.com/user-attachments/assets/a2e2d23d-dd0b-48a8-8b95-46f702465b7e)
+
+![Screenshot 2024-08-13 145903](https://github.com/user-attachments/assets/f4ac5311-fab0-442a-a9af-750073c8e0b1)
+
+![Screenshot 2024-08-13 145910](https://github.com/user-attachments/assets/13a3378f-221f-473a-bf80-6b9cc9e0dfb9)
+
+![Screenshot 2024-08-13 145917](https://github.com/user-attachments/assets/737959d5-e655-472d-8c4b-7a9c726df1bd)
+
+![Screenshot 2024-08-13 145928](https://github.com/user-attachments/assets/62434e3a-61a8-4592-ac7c-7dc3ae144bcf)
+
+![Screenshot 2024-08-13 145936](https://github.com/user-attachments/assets/15b480ee-8c0e-4c0c-9905-d571953cf73d)
+
+![Screenshot 2024-08-13 145947](https://github.com/user-attachments/assets/8dee0414-e97d-4d68-898d-ea0be7b9f641)
+
+![Screenshot 2024-08-13 150000](https://github.com/user-attachments/assets/6bab2fad-2352-4745-83a6-79df03d3a57e)
+
+![Screenshot 2024-08-13 150012](https://github.com/user-attachments/assets/64fd9d92-b53e-4e4c-9029-cf621d535e34)
+
+![Screenshot 2024-08-13 150028](https://github.com/user-attachments/assets/f133c1ff-4b49-47fd-bdbb-40909c9a1430)
+
+![Screenshot 2024-08-13 150037](https://github.com/user-attachments/assets/7def1098-bb83-450a-b63c-527f474da633)
+
+![Screenshot 2024-08-13 150047](https://github.com/user-attachments/assets/b1a3156a-81a2-4076-8ffd-477c7aa343cb)
+
+![Screenshot 2024-08-13 150100](https://github.com/user-attachments/assets/3a776afb-8883-41a3-974e-44790b218e3a)
+
+![Screenshot 2024-08-13 150134](https://github.com/user-attachments/assets/a38013f7-f09a-41a8-8d97-b47d0396316c)
+
 
 ## Getting Started
 
